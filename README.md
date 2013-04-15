@@ -1,6 +1,7 @@
-##Ruzzle Solver##
+##Ruzzle Solver
 
-#Algorithm# : the dictionnary is a Tree of letters.
+#Algorithm :
+the dictionnary is a Tree of letters.
 
 
 http://ruzzlesolver.appspot.com
