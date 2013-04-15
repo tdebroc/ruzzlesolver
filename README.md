@@ -1,6 +1,6 @@
-##Ruzzle Solver
+#Ruzzle Solver
 
-#Algorithm :
+##Algorithm :
 the dictionnary is a Tree of letters.
 
 
