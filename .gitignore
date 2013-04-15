@@ -1,0 +1,14 @@
+
+.project
+
+.classpath
+
+*.prefs
+
+.settings/org.eclipse.wst.common.project.facet.core.xml
+
+*.xml
+
+src/.DS_Store
+
+src/log4j.properties
