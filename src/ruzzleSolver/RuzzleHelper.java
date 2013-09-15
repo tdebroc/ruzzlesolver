@@ -97,10 +97,11 @@ public class RuzzleHelper {
     };  
     for (int i = 0; i < nextPoints.length; i++) {
       if (Point.isNextValidPoint(nextPoints[i], pointVisited)) {
-        analyzeBox(nextPoints[i], new LinkedHashSet<Point>(pointVisited),
+        analyzeBox(nextPoints[i], pointVisited,
             currentLetter);
       }
     }
+    pointVisited.remove(p);
   }
 
   
